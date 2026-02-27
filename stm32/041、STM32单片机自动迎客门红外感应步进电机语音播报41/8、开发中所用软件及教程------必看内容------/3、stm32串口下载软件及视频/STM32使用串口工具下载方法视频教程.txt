@@ -1,0 +1,2 @@
+STM32使用串口工具下载方法视频教程链接：	https://www.bilibili.com/video/BV1RU4y1E746/
+视频中有详细说明如接线，下载注意及操作过程。

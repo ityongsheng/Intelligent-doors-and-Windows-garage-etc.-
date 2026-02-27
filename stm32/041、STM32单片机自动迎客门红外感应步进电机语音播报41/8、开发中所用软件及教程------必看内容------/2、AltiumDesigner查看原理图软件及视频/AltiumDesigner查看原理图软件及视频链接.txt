@@ -1,0 +1,14 @@
+AltiumDesigner查看原理图软件安装包
+百度云网盘链接：
+链接：https://pan.baidu.com/s/1o8ZrOUE_KBdEWAoZXdr_3g 
+提取码：yt3a
+（复制链接到浏览器网址处，打开输入密码即可）
+
+AltiumDesiger软件注意事项：
+1、AltiumDesiger视频-PCB原理图-pdf格式查看-安装AD查看源文件-简单编辑操作
+2、AltiumDesiger视频-模块化原理图连线
+3、AltiumDesiger视频-从原理图源文件提取-元件库
+4、AltiumDesiger视频-从PCB图源文件提取-封装库
+…………及其他问题
+请查看如下视频连接：
+https://www.bilibili.com/video/BV1uA411c7jE/

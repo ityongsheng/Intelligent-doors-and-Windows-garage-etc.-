@@ -1,0 +1,12 @@
+stm32开发环境keil5软件安装包
+百度云网盘链接：
+链接：https://pan.baidu.com/s/1vvY0NEE1FXGLHInaJlujLg 
+提取码：71wa
+（复制链接到浏览器网址处，打开输入密码即可）
+注意：有两个安装包，即“STM32--keil MDK5新版本--通旺科技.zip”和“STM32--keil MDK5破解版--通旺科技.rar”，具体区别及如何使用请查看如下视频链接。
+1、STM32源码查看、不装软件查看、如何安装keil查看、代码结构介绍等等。。
+2、STM32-keil5-新版本兼容-编译问题-芯片型号设置问题等等。。
+3、STM32-keil5打开工程显示空白问题
+…………及其他问题
+请查看如下视频连接：
+https://www.bilibili.com/video/BV1zM4y1V7w6/

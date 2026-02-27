@@ -1,0 +1,209 @@
+Dependencies for Project 'ADC', Target 'Target 1': (DO NOT MODIFY !)
+F (.\main.c)(0x5EB8F665)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I ..\HARDWARE\LED -I ..\SYSTEM\delay -I ..\SYSTEM\sys -I ..\SYSTEM\usart -I ..\USER -I ..\STM32F10x_FWLib\inc -I ..\CORE -I ..\HARDWARE\LCD -I ..\HARDWARE\ADC -I ..\HARDWARE\TIMER -I ..\HARDWARE\KEY-IC:\Keil_v5\ARM\RV31\INC-IC:\Keil_v5\ARM\CMSIS\Include-IC:\Keil_v5\ARM\INC\ST\STM32F10x-D__UVISION_VERSION="528" -DSTM32F10X_HD -DUSE_STDPERIPH_DRIVER-o ..\obj\main.o --omf_browse ..\obj\main.crf --depend ..\obj\main.d)
+I (..\HARDWARE\LED\led.h)(0x5EB8F64D)
+I (..\SYSTEM\sys\sys.h)(0x5D31758B)
+I (..\USER\stm32f10x.h)(0x5D31758B)
+I (..\CORE\core_cm3.h)(0x5D31758A)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5CEB79E2)
+I (..\USER\system_stm32f10x.h)(0x5D31758B)
+I (..\USER\stm32f10x_conf.h)(0x5D31758B)
+I (..\STM32F10x_FWLib\inc\stm32f10x_adc.h)(0x5D31758B)
+I (..\STM32F10x_FWLib\inc\stm32f10x_gpio.h)(0x5D31758B)
+I (..\STM32F10x_FWLib\inc\stm32f10x_rcc.h)(0x5D31758B)
+I (..\STM32F10x_FWLib\inc\stm32f10x_tim.h)(0x5D31758B)
+I (..\STM32F10x_FWLib\inc\stm32f10x_usart.h)(0x5D31758B)
+I (..\STM32F10x_FWLib\inc\misc.h)(0x5D31758B)
+I (..\SYSTEM\delay\delay.h)(0x5D31758B)
+I (..\SYSTEM\usart\usart.h)(0x5D31758B)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x5CEB79E2)
+I (..\HARDWARE\TIMER\timer.h)(0x5D31758A)
+I (..\HARDWARE\KEY\key.h)(0x5D31758A)
+I (..\HARDWARE\ADC\adc.h)(0x5D31758A)
+F (.\stm32f10x_it.c)(0x5D31758B)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I ..\HARDWARE\LED -I ..\SYSTEM\delay -I ..\SYSTEM\sys -I ..\SYSTEM\usart -I ..\USER -I ..\STM32F10x_FWLib\inc -I ..\CORE -I ..\HARDWARE\LCD -I ..\HARDWARE\ADC -I ..\HARDWARE\TIMER -I ..\HARDWARE\KEY-IC:\Keil_v5\ARM\RV31\INC-IC:\Keil_v5\ARM\CMSIS\Include-IC:\Keil_v5\ARM\INC\ST\STM32F10x-D__UVISION_VERSION="528" -DSTM32F10X_HD -DUSE_STDPERIPH_DRIVER-o ..\obj\stm32f10x_it.o --omf_browse ..\obj\stm32f10x_it.crf --depend ..\obj\stm32f10x_it.d)
+I (stm32f10x_it.h)(0x5D31758B)
+I (stm32f10x.h)(0x5D31758B)
+I (..\CORE\core_cm3.h)(0x5D31758A)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5CEB79E2)
+I (system_stm32f10x.h)(0x5D31758B)
+I (stm32f10x_conf.h)(0x5D31758B)
+I (..\STM32F10x_FWLib\inc\stm32f10x_adc.h)(0x5D31758B)
+I (..\USER\stm32f10x.h)(0x5D31758B)
+I (..\STM32F10x_FWLib\inc\stm32f10x_gpio.h)(0x5D31758B)
+I (..\STM32F10x_FWLib\inc\stm32f10x_rcc.h)(0x5D31758B)
+I (..\STM32F10x_FWLib\inc\stm32f10x_tim.h)(0x5D31758B)
+I (..\STM32F10x_FWLib\inc\stm32f10x_usart.h)(0x5D31758B)
+I (..\STM32F10x_FWLib\inc\misc.h)(0x5D31758B)
+F (.\system_stm32f10x.c)(0x5D31758B)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I ..\HARDWARE\LED -I ..\SYSTEM\delay -I ..\SYSTEM\sys -I ..\SYSTEM\usart -I ..\USER -I ..\STM32F10x_FWLib\inc -I ..\CORE -I ..\HARDWARE\LCD -I ..\HARDWARE\ADC -I ..\HARDWARE\TIMER -I ..\HARDWARE\KEY-IC:\Keil_v5\ARM\RV31\INC-IC:\Keil_v5\ARM\CMSIS\Include-IC:\Keil_v5\ARM\INC\ST\STM32F10x-D__UVISION_VERSION="528" -DSTM32F10X_HD -DUSE_STDPERIPH_DRIVER-o ..\obj\system_stm32f10x.o --omf_browse ..\obj\system_stm32f10x.crf --depend ..\obj\system_stm32f10x.d)
+I (stm32f10x.h)(0x5D31758B)
+I (..\CORE\core_cm3.h)(0x5D31758A)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5CEB79E2)
+I (system_stm32f10x.h)(0x5D31758B)
+I (stm32f10x_conf.h)(0x5D31758B)
+I (..\STM32F10x_FWLib\inc\stm32f10x_adc.h)(0x5D31758B)
+I (..\USER\stm32f10x.h)(0x5D31758B)
+I (..\STM32F10x_FWLib\inc\stm32f10x_gpio.h)(0x5D31758B)
+I (..\STM32F10x_FWLib\inc\stm32f10x_rcc.h)(0x5D31758B)
+I (..\STM32F10x_FWLib\inc\stm32f10x_tim.h)(0x5D31758B)
+I (..\STM32F10x_FWLib\inc\stm32f10x_usart.h)(0x5D31758B)
+I (..\STM32F10x_FWLib\inc\misc.h)(0x5D31758B)
+F (..\HARDWARE\LED\led.c)(0x5D31758A)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I ..\HARDWARE\LED -I ..\SYSTEM\delay -I ..\SYSTEM\sys -I ..\SYSTEM\usart -I ..\USER -I ..\STM32F10x_FWLib\inc -I ..\CORE -I ..\HARDWARE\LCD -I ..\HARDWARE\ADC -I ..\HARDWARE\TIMER -I ..\HARDWARE\KEY-IC:\Keil_v5\ARM\RV31\INC-IC:\Keil_v5\ARM\CMSIS\Include-IC:\Keil_v5\ARM\INC\ST\STM32F10x-D__UVISION_VERSION="528" -DSTM32F10X_HD -DUSE_STDPERIPH_DRIVER-o ..\obj\led.o --omf_browse ..\obj\led.crf --depend ..\obj\led.d)
+I (..\HARDWARE\LED\led.h)(0x5EB8F64D)
+I (..\SYSTEM\sys\sys.h)(0x5D31758B)
+I (..\USER\stm32f10x.h)(0x5D31758B)
+I (..\CORE\core_cm3.h)(0x5D31758A)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5CEB79E2)
+I (..\USER\system_stm32f10x.h)(0x5D31758B)
+I (..\USER\stm32f10x_conf.h)(0x5D31758B)
+I (..\STM32F10x_FWLib\inc\stm32f10x_adc.h)(0x5D31758B)
+I (..\STM32F10x_FWLib\inc\stm32f10x_gpio.h)(0x5D31758B)
+I (..\STM32F10x_FWLib\inc\stm32f10x_rcc.h)(0x5D31758B)
+I (..\STM32F10x_FWLib\inc\stm32f10x_tim.h)(0x5D31758B)
+I (..\STM32F10x_FWLib\inc\stm32f10x_usart.h)(0x5D31758B)
+I (..\STM32F10x_FWLib\inc\misc.h)(0x5D31758B)
+F (..\HARDWARE\TIMER\timer.c)(0x5EB8F630)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I ..\HARDWARE\LED -I ..\SYSTEM\delay -I ..\SYSTEM\sys -I ..\SYSTEM\usart -I ..\USER -I ..\STM32F10x_FWLib\inc -I ..\CORE -I ..\HARDWARE\LCD -I ..\HARDWARE\ADC -I ..\HARDWARE\TIMER -I ..\HARDWARE\KEY-IC:\Keil_v5\ARM\RV31\INC-IC:\Keil_v5\ARM\CMSIS\Include-IC:\Keil_v5\ARM\INC\ST\STM32F10x-D__UVISION_VERSION="528" -DSTM32F10X_HD -DUSE_STDPERIPH_DRIVER-o ..\obj\timer.o --omf_browse ..\obj\timer.crf --depend ..\obj\timer.d)
+I (..\HARDWARE\TIMER\timer.h)(0x5D31758A)
+I (..\SYSTEM\sys\sys.h)(0x5D31758B)
+I (..\USER\stm32f10x.h)(0x5D31758B)
+I (..\CORE\core_cm3.h)(0x5D31758A)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5CEB79E2)
+I (..\USER\system_stm32f10x.h)(0x5D31758B)
+I (..\USER\stm32f10x_conf.h)(0x5D31758B)
+I (..\STM32F10x_FWLib\inc\stm32f10x_adc.h)(0x5D31758B)
+I (..\STM32F10x_FWLib\inc\stm32f10x_gpio.h)(0x5D31758B)
+I (..\STM32F10x_FWLib\inc\stm32f10x_rcc.h)(0x5D31758B)
+I (..\STM32F10x_FWLib\inc\stm32f10x_tim.h)(0x5D31758B)
+I (..\STM32F10x_FWLib\inc\stm32f10x_usart.h)(0x5D31758B)
+I (..\STM32F10x_FWLib\inc\misc.h)(0x5D31758B)
+I (..\HARDWARE\LED\led.h)(0x5EB8F64D)
+F (..\HARDWARE\KEY\key.c)(0x5D31758A)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I ..\HARDWARE\LED -I ..\SYSTEM\delay -I ..\SYSTEM\sys -I ..\SYSTEM\usart -I ..\USER -I ..\STM32F10x_FWLib\inc -I ..\CORE -I ..\HARDWARE\LCD -I ..\HARDWARE\ADC -I ..\HARDWARE\TIMER -I ..\HARDWARE\KEY-IC:\Keil_v5\ARM\RV31\INC-IC:\Keil_v5\ARM\CMSIS\Include-IC:\Keil_v5\ARM\INC\ST\STM32F10x-D__UVISION_VERSION="528" -DSTM32F10X_HD -DUSE_STDPERIPH_DRIVER-o ..\obj\key.o --omf_browse ..\obj\key.crf --depend ..\obj\key.d)
+I (..\HARDWARE\KEY\key.h)(0x5D31758A)
+I (..\SYSTEM\sys\sys.h)(0x5D31758B)
+I (..\USER\stm32f10x.h)(0x5D31758B)
+I (..\CORE\core_cm3.h)(0x5D31758A)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5CEB79E2)
+I (..\USER\system_stm32f10x.h)(0x5D31758B)
+I (..\USER\stm32f10x_conf.h)(0x5D31758B)
+I (..\STM32F10x_FWLib\inc\stm32f10x_adc.h)(0x5D31758B)
+I (..\STM32F10x_FWLib\inc\stm32f10x_gpio.h)(0x5D31758B)
+I (..\STM32F10x_FWLib\inc\stm32f10x_rcc.h)(0x5D31758B)
+I (..\STM32F10x_FWLib\inc\stm32f10x_tim.h)(0x5D31758B)
+I (..\STM32F10x_FWLib\inc\stm32f10x_usart.h)(0x5D31758B)
+I (..\STM32F10x_FWLib\inc\misc.h)(0x5D31758B)
+F (..\SYSTEM\delay\delay.c)(0x5D31758B)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I ..\HARDWARE\LED -I ..\SYSTEM\delay -I ..\SYSTEM\sys -I ..\SYSTEM\usart -I ..\USER -I ..\STM32F10x_FWLib\inc -I ..\CORE -I ..\HARDWARE\LCD -I ..\HARDWARE\ADC -I ..\HARDWARE\TIMER -I ..\HARDWARE\KEY-IC:\Keil_v5\ARM\RV31\INC-IC:\Keil_v5\ARM\CMSIS\Include-IC:\Keil_v5\ARM\INC\ST\STM32F10x-D__UVISION_VERSION="528" -DSTM32F10X_HD -DUSE_STDPERIPH_DRIVER-o ..\obj\delay.o --omf_browse ..\obj\delay.crf --depend ..\obj\delay.d)
+I (..\SYSTEM\delay\delay.h)(0x5D31758B)
+I (..\SYSTEM\sys\sys.h)(0x5D31758B)
+I (..\USER\stm32f10x.h)(0x5D31758B)
+I (..\CORE\core_cm3.h)(0x5D31758A)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5CEB79E2)
+I (..\USER\system_stm32f10x.h)(0x5D31758B)
+I (..\USER\stm32f10x_conf.h)(0x5D31758B)
+I (..\STM32F10x_FWLib\inc\stm32f10x_adc.h)(0x5D31758B)
+I (..\STM32F10x_FWLib\inc\stm32f10x_gpio.h)(0x5D31758B)
+I (..\STM32F10x_FWLib\inc\stm32f10x_rcc.h)(0x5D31758B)
+I (..\STM32F10x_FWLib\inc\stm32f10x_tim.h)(0x5D31758B)
+I (..\STM32F10x_FWLib\inc\stm32f10x_usart.h)(0x5D31758B)
+I (..\STM32F10x_FWLib\inc\misc.h)(0x5D31758B)
+F (..\SYSTEM\sys\sys.c)(0x5D31758B)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I ..\HARDWARE\LED -I ..\SYSTEM\delay -I ..\SYSTEM\sys -I ..\SYSTEM\usart -I ..\USER -I ..\STM32F10x_FWLib\inc -I ..\CORE -I ..\HARDWARE\LCD -I ..\HARDWARE\ADC -I ..\HARDWARE\TIMER -I ..\HARDWARE\KEY-IC:\Keil_v5\ARM\RV31\INC-IC:\Keil_v5\ARM\CMSIS\Include-IC:\Keil_v5\ARM\INC\ST\STM32F10x-D__UVISION_VERSION="528" -DSTM32F10X_HD -DUSE_STDPERIPH_DRIVER-o ..\obj\sys.o --omf_browse ..\obj\sys.crf --depend ..\obj\sys.d)
+I (..\SYSTEM\sys\sys.h)(0x5D31758B)
+I (..\USER\stm32f10x.h)(0x5D31758B)
+I (..\CORE\core_cm3.h)(0x5D31758A)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5CEB79E2)
+I (..\USER\system_stm32f10x.h)(0x5D31758B)
+I (..\USER\stm32f10x_conf.h)(0x5D31758B)
+I (..\STM32F10x_FWLib\inc\stm32f10x_adc.h)(0x5D31758B)
+I (..\STM32F10x_FWLib\inc\stm32f10x_gpio.h)(0x5D31758B)
+I (..\STM32F10x_FWLib\inc\stm32f10x_rcc.h)(0x5D31758B)
+I (..\STM32F10x_FWLib\inc\stm32f10x_tim.h)(0x5D31758B)
+I (..\STM32F10x_FWLib\inc\stm32f10x_usart.h)(0x5D31758B)
+I (..\STM32F10x_FWLib\inc\misc.h)(0x5D31758B)
+F (..\SYSTEM\usart\usart.c)(0x5D31758B)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I ..\HARDWARE\LED -I ..\SYSTEM\delay -I ..\SYSTEM\sys -I ..\SYSTEM\usart -I ..\USER -I ..\STM32F10x_FWLib\inc -I ..\CORE -I ..\HARDWARE\LCD -I ..\HARDWARE\ADC -I ..\HARDWARE\TIMER -I ..\HARDWARE\KEY-IC:\Keil_v5\ARM\RV31\INC-IC:\Keil_v5\ARM\CMSIS\Include-IC:\Keil_v5\ARM\INC\ST\STM32F10x-D__UVISION_VERSION="528" -DSTM32F10X_HD -DUSE_STDPERIPH_DRIVER-o ..\obj\usart.o --omf_browse ..\obj\usart.crf --depend ..\obj\usart.d)
+I (..\SYSTEM\sys\sys.h)(0x5D31758B)
+I (..\USER\stm32f10x.h)(0x5D31758B)
+I (..\CORE\core_cm3.h)(0x5D31758A)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5CEB79E2)
+I (..\USER\system_stm32f10x.h)(0x5D31758B)
+I (..\USER\stm32f10x_conf.h)(0x5D31758B)
+I (..\STM32F10x_FWLib\inc\stm32f10x_adc.h)(0x5D31758B)
+I (..\STM32F10x_FWLib\inc\stm32f10x_gpio.h)(0x5D31758B)
+I (..\STM32F10x_FWLib\inc\stm32f10x_rcc.h)(0x5D31758B)
+I (..\STM32F10x_FWLib\inc\stm32f10x_tim.h)(0x5D31758B)
+I (..\STM32F10x_FWLib\inc\stm32f10x_usart.h)(0x5D31758B)
+I (..\STM32F10x_FWLib\inc\misc.h)(0x5D31758B)
+I (..\SYSTEM\usart\usart.h)(0x5D31758B)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x5CEB79E2)
+I (..\HARDWARE\LED\led.h)(0x5EB8F64D)
+F (..\CORE\core_cm3.c)(0x5D31758A)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I ..\HARDWARE\LED -I ..\SYSTEM\delay -I ..\SYSTEM\sys -I ..\SYSTEM\usart -I ..\USER -I ..\STM32F10x_FWLib\inc -I ..\CORE -I ..\HARDWARE\LCD -I ..\HARDWARE\ADC -I ..\HARDWARE\TIMER -I ..\HARDWARE\KEY-IC:\Keil_v5\ARM\RV31\INC-IC:\Keil_v5\ARM\CMSIS\Include-IC:\Keil_v5\ARM\INC\ST\STM32F10x-D__UVISION_VERSION="528" -DSTM32F10X_HD -DUSE_STDPERIPH_DRIVER-o ..\obj\core_cm3.o --omf_browse ..\obj\core_cm3.crf --depend ..\obj\core_cm3.d)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5CEB79E2)
+F (..\CORE\startup_stm32f10x_hd.s)(0x5D31758A)(--cpu Cortex-M3 -g --apcs=interwork -IC:\Keil_v5\ARM\RV31\INC-IC:\Keil_v5\ARM\CMSIS\Include-IC:\Keil_v5\ARM\INC\ST\STM32F10x--pd "__UVISION_VERSION SETA 528"--list .\startup_stm32f10x_hd.lst --xref -o ..\obj\startup_stm32f10x_hd.o --depend ..\obj\startup_stm32f10x_hd.d)
+F (..\STM32F10x_FWLib\src\stm32f10x_gpio.c)(0x5D31758B)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I ..\HARDWARE\LED -I ..\SYSTEM\delay -I ..\SYSTEM\sys -I ..\SYSTEM\usart -I ..\USER -I ..\STM32F10x_FWLib\inc -I ..\CORE -I ..\HARDWARE\LCD -I ..\HARDWARE\ADC -I ..\HARDWARE\TIMER -I ..\HARDWARE\KEY-IC:\Keil_v5\ARM\RV31\INC-IC:\Keil_v5\ARM\CMSIS\Include-IC:\Keil_v5\ARM\INC\ST\STM32F10x-D__UVISION_VERSION="528" -DSTM32F10X_HD -DUSE_STDPERIPH_DRIVER-o ..\obj\stm32f10x_gpio.o --omf_browse ..\obj\stm32f10x_gpio.crf --depend ..\obj\stm32f10x_gpio.d)
+I (..\STM32F10x_FWLib\inc\stm32f10x_gpio.h)(0x5D31758B)
+I (..\USER\stm32f10x.h)(0x5D31758B)
+I (..\CORE\core_cm3.h)(0x5D31758A)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5CEB79E2)
+I (..\USER\system_stm32f10x.h)(0x5D31758B)
+I (..\USER\stm32f10x_conf.h)(0x5D31758B)
+I (..\STM32F10x_FWLib\inc\stm32f10x_adc.h)(0x5D31758B)
+I (..\STM32F10x_FWLib\inc\stm32f10x_rcc.h)(0x5D31758B)
+I (..\STM32F10x_FWLib\inc\stm32f10x_tim.h)(0x5D31758B)
+I (..\STM32F10x_FWLib\inc\stm32f10x_usart.h)(0x5D31758B)
+I (..\STM32F10x_FWLib\inc\misc.h)(0x5D31758B)
+F (..\STM32F10x_FWLib\src\stm32f10x_rcc.c)(0x5D31758B)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I ..\HARDWARE\LED -I ..\SYSTEM\delay -I ..\SYSTEM\sys -I ..\SYSTEM\usart -I ..\USER -I ..\STM32F10x_FWLib\inc -I ..\CORE -I ..\HARDWARE\LCD -I ..\HARDWARE\ADC -I ..\HARDWARE\TIMER -I ..\HARDWARE\KEY-IC:\Keil_v5\ARM\RV31\INC-IC:\Keil_v5\ARM\CMSIS\Include-IC:\Keil_v5\ARM\INC\ST\STM32F10x-D__UVISION_VERSION="528" -DSTM32F10X_HD -DUSE_STDPERIPH_DRIVER-o ..\obj\stm32f10x_rcc.o --omf_browse ..\obj\stm32f10x_rcc.crf --depend ..\obj\stm32f10x_rcc.d)
+I (..\STM32F10x_FWLib\inc\stm32f10x_rcc.h)(0x5D31758B)
+I (..\USER\stm32f10x.h)(0x5D31758B)
+I (..\CORE\core_cm3.h)(0x5D31758A)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5CEB79E2)
+I (..\USER\system_stm32f10x.h)(0x5D31758B)
+I (..\USER\stm32f10x_conf.h)(0x5D31758B)
+I (..\STM32F10x_FWLib\inc\stm32f10x_adc.h)(0x5D31758B)
+I (..\STM32F10x_FWLib\inc\stm32f10x_gpio.h)(0x5D31758B)
+I (..\STM32F10x_FWLib\inc\stm32f10x_tim.h)(0x5D31758B)
+I (..\STM32F10x_FWLib\inc\stm32f10x_usart.h)(0x5D31758B)
+I (..\STM32F10x_FWLib\inc\misc.h)(0x5D31758B)
+F (..\STM32F10x_FWLib\src\stm32f10x_usart.c)(0x5D31758B)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I ..\HARDWARE\LED -I ..\SYSTEM\delay -I ..\SYSTEM\sys -I ..\SYSTEM\usart -I ..\USER -I ..\STM32F10x_FWLib\inc -I ..\CORE -I ..\HARDWARE\LCD -I ..\HARDWARE\ADC -I ..\HARDWARE\TIMER -I ..\HARDWARE\KEY-IC:\Keil_v5\ARM\RV31\INC-IC:\Keil_v5\ARM\CMSIS\Include-IC:\Keil_v5\ARM\INC\ST\STM32F10x-D__UVISION_VERSION="528" -DSTM32F10X_HD -DUSE_STDPERIPH_DRIVER-o ..\obj\stm32f10x_usart.o --omf_browse ..\obj\stm32f10x_usart.crf --depend ..\obj\stm32f10x_usart.d)
+I (..\STM32F10x_FWLib\inc\stm32f10x_usart.h)(0x5D31758B)
+I (..\USER\stm32f10x.h)(0x5D31758B)
+I (..\CORE\core_cm3.h)(0x5D31758A)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5CEB79E2)
+I (..\USER\system_stm32f10x.h)(0x5D31758B)
+I (..\USER\stm32f10x_conf.h)(0x5D31758B)
+I (..\STM32F10x_FWLib\inc\stm32f10x_adc.h)(0x5D31758B)
+I (..\STM32F10x_FWLib\inc\stm32f10x_gpio.h)(0x5D31758B)
+I (..\STM32F10x_FWLib\inc\stm32f10x_rcc.h)(0x5D31758B)
+I (..\STM32F10x_FWLib\inc\stm32f10x_tim.h)(0x5D31758B)
+I (..\STM32F10x_FWLib\inc\misc.h)(0x5D31758B)
+F (..\STM32F10x_FWLib\src\misc.c)(0x5D31758B)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I ..\HARDWARE\LED -I ..\SYSTEM\delay -I ..\SYSTEM\sys -I ..\SYSTEM\usart -I ..\USER -I ..\STM32F10x_FWLib\inc -I ..\CORE -I ..\HARDWARE\LCD -I ..\HARDWARE\ADC -I ..\HARDWARE\TIMER -I ..\HARDWARE\KEY-IC:\Keil_v5\ARM\RV31\INC-IC:\Keil_v5\ARM\CMSIS\Include-IC:\Keil_v5\ARM\INC\ST\STM32F10x-D__UVISION_VERSION="528" -DSTM32F10X_HD -DUSE_STDPERIPH_DRIVER-o ..\obj\misc.o --omf_browse ..\obj\misc.crf --depend ..\obj\misc.d)
+I (..\STM32F10x_FWLib\inc\misc.h)(0x5D31758B)
+I (..\USER\stm32f10x.h)(0x5D31758B)
+I (..\CORE\core_cm3.h)(0x5D31758A)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5CEB79E2)
+I (..\USER\system_stm32f10x.h)(0x5D31758B)
+I (..\USER\stm32f10x_conf.h)(0x5D31758B)
+I (..\STM32F10x_FWLib\inc\stm32f10x_adc.h)(0x5D31758B)
+I (..\STM32F10x_FWLib\inc\stm32f10x_gpio.h)(0x5D31758B)
+I (..\STM32F10x_FWLib\inc\stm32f10x_rcc.h)(0x5D31758B)
+I (..\STM32F10x_FWLib\inc\stm32f10x_tim.h)(0x5D31758B)
+I (..\STM32F10x_FWLib\inc\stm32f10x_usart.h)(0x5D31758B)
+F (..\STM32F10x_FWLib\src\stm32f10x_tim.c)(0x5D31758B)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I ..\HARDWARE\LED -I ..\SYSTEM\delay -I ..\SYSTEM\sys -I ..\SYSTEM\usart -I ..\USER -I ..\STM32F10x_FWLib\inc -I ..\CORE -I ..\HARDWARE\LCD -I ..\HARDWARE\ADC -I ..\HARDWARE\TIMER -I ..\HARDWARE\KEY-IC:\Keil_v5\ARM\RV31\INC-IC:\Keil_v5\ARM\CMSIS\Include-IC:\Keil_v5\ARM\INC\ST\STM32F10x-D__UVISION_VERSION="528" -DSTM32F10X_HD -DUSE_STDPERIPH_DRIVER-o ..\obj\stm32f10x_tim.o --omf_browse ..\obj\stm32f10x_tim.crf --depend ..\obj\stm32f10x_tim.d)
+I (..\STM32F10x_FWLib\inc\stm32f10x_tim.h)(0x5D31758B)
+I (..\USER\stm32f10x.h)(0x5D31758B)
+I (..\CORE\core_cm3.h)(0x5D31758A)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5CEB79E2)
+I (..\USER\system_stm32f10x.h)(0x5D31758B)
+I (..\USER\stm32f10x_conf.h)(0x5D31758B)
+I (..\STM32F10x_FWLib\inc\stm32f10x_adc.h)(0x5D31758B)
+I (..\STM32F10x_FWLib\inc\stm32f10x_gpio.h)(0x5D31758B)
+I (..\STM32F10x_FWLib\inc\stm32f10x_rcc.h)(0x5D31758B)
+I (..\STM32F10x_FWLib\inc\stm32f10x_usart.h)(0x5D31758B)
+I (..\STM32F10x_FWLib\inc\misc.h)(0x5D31758B)
+F (..\STM32F10x_FWLib\src\stm32f10x_adc.c)(0x5D31758B)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I ..\HARDWARE\LED -I ..\SYSTEM\delay -I ..\SYSTEM\sys -I ..\SYSTEM\usart -I ..\USER -I ..\STM32F10x_FWLib\inc -I ..\CORE -I ..\HARDWARE\LCD -I ..\HARDWARE\ADC -I ..\HARDWARE\TIMER -I ..\HARDWARE\KEY-IC:\Keil_v5\ARM\RV31\INC-IC:\Keil_v5\ARM\CMSIS\Include-IC:\Keil_v5\ARM\INC\ST\STM32F10x-D__UVISION_VERSION="528" -DSTM32F10X_HD -DUSE_STDPERIPH_DRIVER-o ..\obj\stm32f10x_adc.o --omf_browse ..\obj\stm32f10x_adc.crf --depend ..\obj\stm32f10x_adc.d)
+I (..\STM32F10x_FWLib\inc\stm32f10x_adc.h)(0x5D31758B)
+I (..\USER\stm32f10x.h)(0x5D31758B)
+I (..\CORE\core_cm3.h)(0x5D31758A)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5CEB79E2)
+I (..\USER\system_stm32f10x.h)(0x5D31758B)
+I (..\USER\stm32f10x_conf.h)(0x5D31758B)
+I (..\STM32F10x_FWLib\inc\stm32f10x_gpio.h)(0x5D31758B)
+I (..\STM32F10x_FWLib\inc\stm32f10x_rcc.h)(0x5D31758B)
+I (..\STM32F10x_FWLib\inc\stm32f10x_tim.h)(0x5D31758B)
+I (..\STM32F10x_FWLib\inc\stm32f10x_usart.h)(0x5D31758B)
+I (..\STM32F10x_FWLib\inc\misc.h)(0x5D31758B)
